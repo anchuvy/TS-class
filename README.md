@@ -13,3 +13,4 @@
 
 ### 바로가기 링크
 [깃허브](https://anchuvy.github.io/TS-class/)로 배포
+[넷틀리파이](https://anchuvy-ts.netlify.app/)로 배포
