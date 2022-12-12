@@ -11346,6 +11346,11 @@ body {
   padding: 8rem 0;
 }
 
+.introduction {
+  margin-bottom: 50px;
+  padding: 8rem 0;
+}
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75) !important;
 }
